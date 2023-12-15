@@ -9,15 +9,15 @@ import wordanalyticsImg from "@/public/wordanalytics.png";
 export const links = [
   {
     name: "Accueil",
-    hash: "#accueil",
+    hash: "#home",
   },
   {
     name: "Infos",
-    hash: "#infos",
+    hash: "#about",
   },
   {
     name: "Projets",
-    hash: "#projets",
+    hash: "#projects",
   },
   {
     name: "Compétences",
